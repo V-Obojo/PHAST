@@ -24,7 +24,7 @@ Each technique is catalogued with:
 
 ## Purpose  
 
-PHAST (Proactive Hybrid Adversary Simulation & Tracking) is designed to:  
+PHAST (Physical & Hybrid Attack Surface Tactics) is designed to:  
 - Support **analysts and SOC teams** with localized, context-rich adversary techniques.  
 - Enable **cross-context mapping** between fraud, terrorism, scams, and data exposure.  
 - Provide a **Nigeria-first but globally relevant** reference that blends regional threats (e.g., Yahoo Boys, BVN/CBN phishing, SIM registration leaks) with international parallels.  
