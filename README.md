@@ -12,7 +12,7 @@ The **PHAST Core Map** is a structured threat intelligence framework that docume
 Each technique is catalogued with:  
 - **ID & Name** – unique reference (e.g., `FF-T001.01`).  
 - **Description** – what the technique is and how it works.  
-- **Procedure Examples** – *70% Nigeria-localized* use cases + *30% global parallels*.  
+- **Procedure Examples** – Mostly *Nigeria-localized* use cases + *global parallels*.  
 - **Primary Actors/Channels** – who typically carries it out and where.  
 - **Common Indicators** – observable red flags or signs.  
 - **Detection Sources** – logs, systems, or methods to identify the activity.  
@@ -34,7 +34,7 @@ PHAST (Proactive Hybrid Adversary Simulation & Tracking) is designed to:
 
 ## Structure  
 
-- 📑 **Core Map** – one Markdown file (`PHAST_Core_Map_FULL.md`) containing all techniques.  
+- 📑 **Core Map** – one Markdown file (`PHAST_Framework_Core_Map_FULL.md`) containing all techniques.  
 - 📌 **Table of Contents** – context-level links for quick navigation.  
 - 🗂️ **Appendix** – PSS factor definitions, actor/channel taxonomy, and cross-context notes.  
 
