@@ -1,4 +1,4 @@
-# PHAST Framework – Core Map  
+# PHAST Framework (Physical & Hybrid Attack Surface Tactics) – Core Map  
 **Last Updated:** September 23, 2025  
 
 The **PHAST Core Map** is a structured threat intelligence framework that documents **150 actionable techniques** across five primary threat contexts:  
